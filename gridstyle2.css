@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.grid-item p {
+    color: #D1171A;
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 512px;
+    font-size: x-large;
+    text-align: left;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 80px;
+}
+.grid-container {
+    display: grid;
+	grid-row-gap: 10px;
+    grid-template-columns: 150px auto;
+}
+.grid-item {
+    padding-right: 0px;
+    margin-right: 390px;
+}
+
+.grid-item {
+	height: 350px;
+}
+.navul {
+}

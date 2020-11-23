@@ -1,0 +1,100 @@
+@charset "UTF-8";
+body {
+    background-color: #FFFFFF;
+    color: #C01014;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 400;
+}
+body h1 {
+    font-size: 4em;
+    text-align: center;
+}
+body h2 {
+    margin-left: 60px;
+}
+body p {
+    margin-left: 60px;
+    width: 27%;
+    color: #E11F22;
+}
+section {
+}
+body h2 {
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
+}
+body h1 {
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5em;
+}
+body p {
+    color: #C91619;
+}
+body h1 {
+}
+body p {
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+}
+body footer {
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    position: fixed;
+    padding-bottom: 0px;
+    bottom: 7px;
+}
+body footer {
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    position: fixed;
+    bottom: 6px;
+    text-align: center;
+}
+body img {
+    margin-left: 40px;
+}
+body footer {
+}
+body footer {
+    position: static;
+    text-align: right;
+}
+body nav {
+    color: #000000;
+}
+body {
+}
+.navul {
+}
+ul li a {
+}
+ul li a {
+}
+body nav {
+}
+.navul li float {
+}
+.navul li a {
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+}
+.navul li a {
+}
+.navul li a:hover {
+    color: #999999;
+    background-color: #781012;
+}
