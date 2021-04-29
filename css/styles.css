@@ -213,6 +213,12 @@ transform: scale(0.95);
     padding: 0 1rem 10rem 1rem;
 }
 
+.portfolio-text h1 {
+    font-size: 2rem;
+    line-height: 2rem;
+    color: lightskyblue;
+}
+
 .portfolio-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -318,6 +324,11 @@ transform: scale(0.95);
     }
 
     /* Grid Column and Row Spans for Wider Screens */
+
+    .portfolio-text h1 {
+        font-size: 3rem;
+        line-height: 3rem;
+    }
 
 .w-1 {
     grid-column: span 1;
