@@ -172,8 +172,8 @@ video {
     color: lightskyblue;
     font-size: 1.2rem;
     font-weight: bold;
-    border: 7px transparent white;
-    border-radius: 15px;
+    border: 8px transparent rgb(180, 179, 179);
+    border-radius: 20px;
     margin-top: 2rem;
 }
 
