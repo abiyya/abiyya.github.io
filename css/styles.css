@@ -213,7 +213,7 @@ transform: scale(0.95);
     padding: 0 1rem 10rem 1rem;
 }
 
-.portfolio-text h1 {
+.gallery-text h1 {
     font-size: 2rem;
     line-height: 2rem;
     color: lightskyblue;
@@ -325,7 +325,7 @@ transform: scale(0.95);
 
     /* Grid Column and Row Spans for Wider Screens */
 
-    .portfolio-text h1 {
+    .gallery-text h1 {
         font-size: 3rem;
         line-height: 3rem;
     }
